@@ -1,0 +1,10 @@
+
+
+GET http://localhost:5000/albums/
+Accept: application/json
+
+###
+
+
+GET https://localhost:5001/albums/
+Accept: application/json
